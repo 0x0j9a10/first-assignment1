@@ -102,7 +102,9 @@ h1{
     text-align: center;
 }
 
-
+#foot{
+    font-family: Copperplate, Papyrus, fantasy;  
+}
 
 footer{
     color:white;
