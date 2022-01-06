@@ -1,0 +1,114 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.blue-color{
+    color: blue;
+}
+#blue-line{
+    border-left: 7px solid blue;
+    
+}
+.flexible-container{
+    display: flex;
+    margin-top: 100px;
+}
+.half-top{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-top img{
+    width: 600px;
+    border-radius: 50px;
+}
+
+.mission-img{
+    width: 150px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue,black);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    color: white;
+
+}
+.mission-img{
+    padding-right: 20px;
+
+}
+.Develop{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: left;
+}
+.Community{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: right;
+
+}
+#center{
+    text-align: center;
+}
+.box1{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 1%;
+    border-radius: 10px;
+
+    box-sizing: 5px 5px 10px ;
+    box-shadow: 0px 10px 15px rgba(0,0,0,0);
+    background-color:rgb(237,245,246); 
+}
+
+.box2{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 1%;
+    border-radius: 10px;
+
+    box-sizing: 5px 5px 10px ;
+    box-shadow: 0px 10px 15px rgba(0,0,0,0);
+    background-color: rgb(255,238,238); 
+}
+.box3{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 1%;
+    border-radius: 10px;
+
+    box-sizing: 5px 5px 10px ;
+    box-shadow: 0px 10px 15px rgba(0,0,0,0);
+    background-color: rgb(254,245,216); 
+}
+
+.box img{
+    width: 150px;
+}
+
+#text{
+    text-align: center;
+}
+
+footer{
+    color:white;
+    text-align: center;
+    font-weight: 200;
+    
+    background-color: black;
+}
+
+
+  
