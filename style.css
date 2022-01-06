@@ -53,7 +53,7 @@ h1{
     background-image: url(images/shape-1.png);
     background-repeat: no-repeat;
     background-size: 15%;
-    background-position: right;
+    background-position-x: right;
 
 }
 #center{
@@ -101,6 +101,8 @@ h1{
 #text{
     text-align: center;
 }
+
+
 
 footer{
     color:white;
